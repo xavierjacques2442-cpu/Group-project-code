@@ -1,2 +1,2 @@
 # Group-project-code
-Our group project with joseph, Jonathen
+Our group project with joseph, Nanthen
